@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Prakashmonis05/Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prakashmonis05/Practice/tree/master/0344-reverse-string) |
 | [3856-trim-trailing-vowels](https://github.com/Prakashmonis05/Practice/tree/master/3856-trim-trailing-vowels) |
 ## Array
@@ -31,5 +32,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Prakashmonis05/Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prakashmonis05/Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
