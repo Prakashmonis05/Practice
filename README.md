@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prakashmonis05/Practice/tree/master/0001-two-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Prakashmonis05/Practice/tree/master/3285-find-indices-of-stable-mountains) |
 | [4020-elevator-requests-i](https://github.com/Prakashmonis05/Practice/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
