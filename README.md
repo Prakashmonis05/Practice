@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Prakashmonis05/Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prakashmonis05/Practice/tree/master/0344-reverse-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prakashmonis05/Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3856-trim-trailing-vowels](https://github.com/Prakashmonis05/Practice/tree/master/3856-trim-trailing-vowels) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prakashmonis05/Practice/tree/master/0001-two-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prakashmonis05/Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Prakashmonis05/Practice/tree/master/3285-find-indices-of-stable-mountains) |
 | [4020-elevator-requests-i](https://github.com/Prakashmonis05/Practice/tree/master/4020-elevator-requests-i) |
