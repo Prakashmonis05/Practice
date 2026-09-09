@@ -10,15 +10,6 @@ class Solution {
         {
             word4=word4+word2[i];
         }
-        System.out.println(word3);
-        System.out.print(word4);
-        if(word3.equals(word4))
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        return word3.equals(word4);
     }
 }
