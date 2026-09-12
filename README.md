@@ -4,12 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Prakashmonis05/Practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Prakashmonis05/Practice/tree/master/0344-reverse-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prakashmonis05/Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3856-trim-trailing-vowels](https://github.com/Prakashmonis05/Practice/tree/master/3856-trim-trailing-vowels) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prakashmonis05/Practice/tree/master/0001-two-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prakashmonis05/Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Prakashmonis05/Practice/tree/master/3285-find-indices-of-stable-mountains) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prakashmonis05/Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3866-first-unique-even-element](https://github.com/Prakashmonis05/Practice/tree/master/3866-first-unique-even-element) |
 | [4020-elevator-requests-i](https://github.com/Prakashmonis05/Practice/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
@@ -19,6 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prakashmonis05/Practice/tree/master/0001-two-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prakashmonis05/Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3866-first-unique-even-element](https://github.com/Prakashmonis05/Practice/tree/master/3866-first-unique-even-element) |
 ## Database
 |  |
 | ------- |
@@ -27,4 +36,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3871-count-commas-in-range-ii](https://github.com/Prakashmonis05/Practice/tree/master/3871-count-commas-in-range-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Prakashmonis05/Practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Prakashmonis05/Practice/tree/master/0344-reverse-string) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/Prakashmonis05/Practice/tree/master/3866-first-unique-even-element) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prakashmonis05/Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prakashmonis05/Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
