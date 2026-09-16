@@ -11,18 +11,18 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        List<ListNode> list=new ArrayList<>();
+        HashSet<ListNode> set = new HashSet<>();
         ListNode temp;
         temp=head;
         while(temp!=null)
         {
-            if(list.contains(temp))
+            if(set.contains(temp))
             {
                 return true;
             }
             else
             {
-                list.add(temp);
+                set.add(temp);
             }
             temp=temp.next;
         }
