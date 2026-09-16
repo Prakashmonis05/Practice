@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prakashmonis05/Practice/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prakashmonis05/Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Prakashmonis05/Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prakashmonis05/Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prakashmonis05/Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -68,6 +70,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Prakashmonis05/Practice/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
