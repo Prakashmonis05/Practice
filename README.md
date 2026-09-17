@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/Prakashmonis05/Practice/tree/master/2235-add-two-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3871-count-commas-in-range-ii](https://github.com/Prakashmonis05/Practice/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
