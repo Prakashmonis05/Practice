@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/Prakashmonis05/Practice/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Prakashmonis05/Practice/tree/master/2413-smallest-even-multiple) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3871-count-commas-in-range-ii](https://github.com/Prakashmonis05/Practice/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prakashmonis05/Practice/tree/master/0141-linked-list-cycle) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Prakashmonis05/Practice/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
